@@ -1,6 +1,6 @@
 # The-Voice
 
-**The Automatic Voice Phishing Detection for the Elderly and Socially Vulnerable.**
+**The Automatic Phone Scam Detection for the Elderly and Socially Vulnerable.**
 
 ## Members
 
