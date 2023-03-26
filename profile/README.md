@@ -22,10 +22,10 @@ Jongeun Park(abepje@gmail.com) - Data processing
 
 |Component|Stacks|Responsibility|
 |---|---|---|
-|[Cliend](https://github.com/KAIST-Google-Solution-Challenge/frontend)|Flutter|User Interface|
+|[Client](https://github.com/KAIST-Google-Solution-Challenge/frontend)|Flutter|User Interface|
 |[Server](https://github.com/KAIST-Google-Solution-Challenge/backend)|Node.js|Pipeline to connect with services|
 |[Model](https://github.com/KAIST-Google-Solution-Challenge/conversation_model)|Google Colab|Classify text input to probability of being fraudulent|
-|[Data Preprocessing and Dataset](https://github.com/KAIST-Google-Solution-Challenge/data_preprocess)|Python|Gather voice phishing dataset|
+|[Data Preprocessing](https://github.com/KAIST-Google-Solution-Challenge/data_preprocess)|Python|Gather voice phishing dataset|
 |[Database]()|Firebase|Store Phone Scam Data|
 
 ## Reference
