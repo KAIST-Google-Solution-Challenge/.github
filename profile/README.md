@@ -36,15 +36,15 @@ Jongeun Park(abepje@gmail.com) - Data processing
 
 <img src="/profile/assets/architecture.png">
 
-![architecture](assets/architecture.png)
-
 ## Google Products and Platforms
 
-<img src="/profile/assets/Android.png" height="100px" width="100px">
-<img src="/profile/assets/Flutter.png" height="100px" width="100px">
-<img src="/profile/assets/Google-Cloud.png" height="100px" width="100px">
-<img src="/profile/assets/Google-Colab.png" height="100px" width="100px">
-<img src="/profile/assets/GCE.png" height="100px" width="100px">
+<p align="middle">
+  <img src="/profile/assets/Android.png" height="100px" width="100px">
+  <img src="/profile/assets/Flutter.png" height="100px" width="100px"> 
+  <img src="/profile/assets/Google-Cloud.png" height="100px" width="100px">
+  <img src="/profile/assets/Google-Colab.png" height="100px" width="100px">
+  <img src="/profile/assets/GCE.png" height="100px" width="100px">
+</p>
 
 ## Reference
 
