@@ -1,10 +1,14 @@
 # The-Voice
 
-<img src="/profile/assets/Reduced-Inequalities.png" height="100px" width="100px">
-
-</br >
+<img src="/profile/assets/Logo.png" height="100px" width="100px">
 
 **The conversation content-based AI scam call detection application for seniors who may not be familiar with modern technology or fraudulent schemes.**
+
+### 10. Reduced Inequalities
+
+<img src="/profile/assets/Reduced-Inequalities.png" height="100px" width="100px">
+
+Phone scams are becoming an increasingly prevalent issue in Korea, particularly seniors who may not be familiar with modern technology or fraudulent schemes. The fraudsters are utilizing increasingly sophisticated methods, making it more challenging to identify them. Given that older individuals are less likely to bounce back from financial harm and they account for 56.8 percent of victims, these scams are more lethal than all other crimes.
 
 ## Environments
 
