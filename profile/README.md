@@ -1,6 +1,6 @@
 # The-Voice
 
-<img src="./assets/Reduced-Inequalities.png" height="100px" width="100px">
+<img src="/profile/assets/Reduced-Inequalities.png" height="100px" width="100px">
 
 </br >
 
@@ -34,17 +34,17 @@ Jongeun Park(abepje@gmail.com) - Data processing
 
 ## Architecture
 
-<img src="./assets/architecture.png">
+<img src="/profile/assets/architecture.png">
 
 ![architecture](assets/architecture.png)
 
 ## Google Products and Platforms
 
-<img src="./assets/Android.png" height="100px" width="100px">
-<img src="./assets/Flutter.png" height="100px" width="100px">
-<img src="./assets/Google-Cloud.png" height="100px" width="100px">
-<img src="./assets/Google-Colab.png" height="100px" width="100px">
-<img src="./assets/GCE.png" height="100px" width="100px">
+<img src="/profile/assets/Android.png" height="100px" width="100px">
+<img src="/profile/assets/Flutter.png" height="100px" width="100px">
+<img src="/profile/assets/Google-Cloud.png" height="100px" width="100px">
+<img src="/profile/assets/Google-Colab.png" height="100px" width="100px">
+<img src="/profile/assets/GCE.png" height="100px" width="100px">
 
 ## Reference
 
