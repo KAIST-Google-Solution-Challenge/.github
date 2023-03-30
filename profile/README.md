@@ -10,6 +10,10 @@
 
 In Korea, there is a growing problem of phone scams that are specifically targeting elderly individuals who may not be knowledgeable about modern technology or fraudulent activities. The scams are becoming increasingly sophisticated, making it more challenging to identify them. Since seniors are less likely to recover financially and account for 56.8 percent of victims, these scams are more lethal than all other crimes to the elderly.
 
+## Demo Video
+
+[![Video Label](https://img.youtube.com/vi/gxOZfgLVO70/0.jpg)](https://youtu.be/gxOZfgLVO70)
+
 ## Environments
 
 Android 9 or above
