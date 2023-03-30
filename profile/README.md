@@ -2,13 +2,13 @@
 
 <img src="/profile/assets/Logo.png" height="100px" width="100px">
 
-**The conversation content-based AI scam call detection application for seniors who may not be familiar with modern technology or fraudulent schemes.**
+**"The Voice", is an AI-based application that uses conversational content to detect scam calls. Our goal is to protect seniors by analyzing call recordings using a deep-learning based model.**
 
 ### 10. Reduced Inequalities
 
 <img src="/profile/assets/Reduced-Inequalities.png" height="100px" width="100px">
 
-Phone scams are becoming an increasingly prevalent issue in Korea, particularly seniors who may not be familiar with modern technology or fraudulent schemes. The fraudsters are utilizing increasingly sophisticated methods, making it more challenging to identify them. Given that older individuals are less likely to bounce back from financial harm and they account for 56.8 percent of victims, these scams are more lethal than all other crimes.
+In Korea, there is a growing problem of phone scams that are specifically targeting elderly individuals who may not be knowledgeable about modern technology or fraudulent activities. The scams are becoming increasingly sophisticated, making it more challenging to identify them. Since seniors are less likely to recover financially and account for 56.8 percent of victims, these scams are more lethal than all other crimes to the elderly.
 
 ## Environments
 
