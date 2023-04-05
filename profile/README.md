@@ -1,12 +1,12 @@
 # The-Voice
 
-<img src="/profile/assets/Logo.png" height="100px" width="100px">
+<img src="assets/Logo.png" height="100px" width="100px">
 
 **"The Voice", is an AI-based application that uses conversational content to detect scam calls. Our goal is to protect seniors by analyzing call recordings using a deep-learning based model.**
 
 ### 10. Reduced Inequalities
 
-<img src="/profile/assets/Reduced-Inequalities.png" height="100px" width="100px">
+<img src="assets/Reduced-Inequalities.png" height="100px" width="100px">
 
 In Korea, there is a growing problem of phone scams that are specifically targeting elderly individuals who may not be knowledgeable about modern technology or fraudulent activities. The scams are becoming increasingly sophisticated, making it more challenging to identify them. Since seniors are less likely to recover financially and account for 56.8 percent of victims, these scams are more lethal than all other crimes to the elderly.
 
@@ -42,16 +42,16 @@ Jongeun Park(abepje@gmail.com) - Data processing
 
 ## Architecture
 
-<img src="/profile/assets/architecture.png">
+<img src="/assets/architecture.png">
 
 ## Google Products and Platforms
 
 <p align="middle">
-  <img src="/profile/assets/Android.png" height="100px" width="100px">
-  <img src="/profile/assets/Flutter.png" height="100px" width="100px"> 
-  <img src="/profile/assets/Google-Cloud.png" height="100px" width="100px">
-  <img src="/profile/assets/Google-Colab.png" height="100px" width="100px">
-  <img src="/profile/assets/GCE.png" height="100px" width="100px">
+  <img src="/assets/Android.png" height="100px" width="100px">
+  <img src="/assets/Flutter.png" height="100px" width="100px"> 
+  <img src="/assets/Google-Cloud.png" height="100px" width="100px">
+  <img src="/assets/Google-Colab.png" height="100px" width="100px">
+  <img src="/assets/GCE.png" heigµht="100px" width="100px">
 </p>
 
 ## Reference
