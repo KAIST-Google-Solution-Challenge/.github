@@ -1,12 +1,12 @@
 # The-Voice
 
-<img src="assets/Logo.png" height="100px" width="100px">
+<img src="https://user-images.githubusercontent.com/60650372/230013718-8def5c1c-1ec2-4806-aa74-b2884b9e161b.png" height="100px" width="100px">
 
 **"The Voice", is an AI-based application that uses conversational content to detect scam calls. Our goal is to protect seniors by analyzing call recordings using a deep-learning based model.**
 
 ### 10. Reduced Inequalities
 
-<img src="assets/Reduced-Inequalities.png" height="100px" width="100px">
+<img src="https://user-images.githubusercontent.com/60650372/230013727-0c381cb7-9cb0-4e2a-b700-fed6ae809ab1.png" height="100px" width="100px">
 
 In Korea, there is a growing problem of phone scams that are specifically targeting elderly individuals who may not be knowledgeable about modern technology or fraudulent activities. The scams are becoming increasingly sophisticated, making it more challenging to identify them. Since seniors are less likely to recover financially and account for 56.8 percent of victims, these scams are more lethal than all other crimes to the elderly.
 
@@ -42,16 +42,16 @@ Jongeun Park(abepje@gmail.com) - Data processing
 
 ## Architecture
 
-<img src="/assets/architecture.png">
+<img src="https://user-images.githubusercontent.com/60650372/230013748-c7162e45-dda5-4b3a-8363-ba072e7c636c.png">
 
 ## Google Products and Platforms
 
 <p align="middle">
-  <img src="/assets/Android.png" height="100px" width="100px">
-  <img src="/assets/Flutter.png" height="100px" width="100px"> 
-  <img src="/assets/Google-Cloud.png" height="100px" width="100px">
-  <img src="/assets/Google-Colab.png" height="100px" width="100px">
-  <img src="/assets/GCE.png" heigµht="100px" width="100px">
+  <img src="https://user-images.githubusercontent.com/60650372/230013769-e601b476-acb8-47bc-9c4e-4199f72df8f4.png" height="100px" width="100px">
+  <img src="https://user-images.githubusercontent.com/60650372/230013809-0b02efe6-60d2-41c2-9c88-032522e7da11.png" height="100px" width="100px"> 
+  <img src="https://user-images.githubusercontent.com/60650372/230013785-76542b81-b568-4f1c-82f6-d7e4cf01c221.png" height="100px" width="100px">
+  <img src="https://user-images.githubusercontent.com/60650372/230013820-79f27a46-c874-4759-8634-156069be68f2.png" height="100px" width="100px">
+  <img src="https://user-images.githubusercontent.com/60650372/230014161-5424f544-6e25-4ad2-8ea9-f2e9203a4782.png" heigµht="100px" width="100px">
 </p>
 
 ## Reference
