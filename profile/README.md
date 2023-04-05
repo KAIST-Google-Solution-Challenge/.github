@@ -12,6 +12,8 @@ In Korea, there is a growing problem of phone scams that are specifically target
 
 ## Demo Video
 
+**Please turn on the caption!**
+
 [![Video Label](https://img.youtube.com/vi/gxOZfgLVO70/0.jpg)](https://youtu.be/gxOZfgLVO70)
 
 ## Environments
