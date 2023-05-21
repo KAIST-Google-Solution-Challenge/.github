@@ -61,7 +61,7 @@ Consequently, we expect “The Voice” can encourage seniors to become more inv
 
 **_GDSC KAIST (Korea Advanced Institute of Science and Engineering)_**
 
-Seungho Jang (hoosong0235@gmail.com) - Frontend
+Seungho Jang (hoosong0235@gmail.com) - Design, Frontend
 
 Kyungho Byoun(clearman001@gmail.com) - Team Lead, Backend
 
@@ -78,6 +78,10 @@ Jongeun Park(abepje@gmail.com) - Data processing
 | [Model](https://github.com/KAIST-Google-Solution-Challenge/conversation_model) | Google Colab | Classify text input to probability of being fraudulent |
 | [Data Preprocessing](https://github.com/KAIST-Google-Solution-Challenge/data_preprocess) | Python, Google Speech-to-Text | Gather voice phishing dataset |
 | [Database]() | Firebase | Store Phone Scam Data |
+
+### Design
+
+![The Voice 1 1 0](https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/8036ac0f-3343-4973-98d8-8b7fb478ed41)
 
 ### Architecture
 
