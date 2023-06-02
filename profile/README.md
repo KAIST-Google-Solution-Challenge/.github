@@ -2,24 +2,25 @@
 
 ## Table of Contents
 
--   [The-Voice](#the-voice)
-    -   [Table of Contents](#table-of-contents)
-    -   [Background](#background)
-        -   [Demo Video](#demo-video)
-        -   [Problem Statement](#problem-statement)
-        -   [10. Reduced Inequalities](#10---reduced-inequalities)
-    -   [Document](#document)
-    -   [Implementation](#implementation)
-        -   [Members](#members)
-        -   [Responsibility](#responsibility)
-        -   [Architecture](#architecture)
-        -   [Google Products and Platforms](#google-products-and-platforms)
-    -   [Reference](#reference)
-    -   [Contacts](#contacts)
+- [The-Voice](#the-voice)
+  - [Table of Contents](#table-of-contents)
+  - [Background](#background)
+    - [Demo Video](#demo-video)
+    - [Problem Statement](#problem-statement)
+    - [10. Reduced Inequalities](#10-reduced-inequalities)
+  - [Document](#document)
+  - [Implementation](#implementation)
+    - [Members](#members)
+    - [Responsibility](#responsibility)
+    - [Design](#design)
+    - [Architecture](#architecture)
+    - [Google Products and Platforms](#google-products-and-platforms)
+  - [Reference](#reference)
+  - [Contacts](#contacts)
 
 ## Background
 
-<img src="https://user-images.githubusercontent.com/60650372/230013718-8def5c1c-1ec2-4806-aa74-b2884b9e161b.png" height="100px" width="100px">
+<img src="assets/Logo.png" height="100px" width="100px">
 
 **"The Voice", is an AI-based application that uses conversational content to detect scam calls. Our goal is to protect seniors by analyzing call recordings using a deep-learning based model.**
 
