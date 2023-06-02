@@ -8,7 +8,7 @@
     - [Demo Video](#demo-video)
     - [Problem Statement](#problem-statement)
     - [10. Reduced Inequalities](#10-reduced-inequalities)
-  - [Document](#document)
+  - [User Guide](#user-guide)
   - [Implementation](#implementation)
     - [Members](#members)
     - [Responsibility](#responsibility)
@@ -20,7 +20,7 @@
 
 ## Background
 
-<img src="assets/Logo.png" height="100px" width="100px">
+<img src="https://user-images.githubusercontent.com/60650372/230013718-8def5c1c-1ec2-4806-aa74-b2884b9e161b.png" height="100px" width="100px">
 
 **"The Voice", is an AI-based application that uses conversational content to detect scam calls. Our goal is to protect seniors by analyzing call recordings using a deep-learning based model.**
 
@@ -28,7 +28,7 @@
 
 **Please turn on the caption!**
 
-[![Video Label](https://img.youtube.com/vi/gxOZfgLVO70/0.jpg)](https://youtu.be/gxOZfgLVO70)
+[![Video Label](https://img.youtube.com/vi/fXQEwMKBVvE/0.jpg)](https://youtu.be/fXQEwMKBVvE)
 
 ### Problem Statement
 
@@ -54,7 +54,7 @@ Our proposed solution, "The Voice", is an AI-based application that uses convers
 
 Consequently, we expect “The Voice” can encourage seniors to become more involved in financial matters and promote their financial empowerment by reducing inequalities in information between seniors and others.
 
-## [Document](https://abrasive-shift-c8c.notion.site/The-Voice-2ba7dc9ab10a48dfaa9eed7f4a63228b)
+## [User Guide](https://github.com/KAIST-Google-Solution-Challenge/frontend/files/11524803/tutorial.pdf)
 
 ## Implementation
 
