@@ -20,7 +20,7 @@
 
 ## Background
 
-<img src="https://user-images.githubusercontent.com/60650372/230013718-8def5c1c-1ec2-4806-aa74-b2884b9e161b.png" height="100px" width="100px">
+![Thumbnail 2](https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/4aa36b8d-f0ab-42f0-96e7-aeac8c923701)
 
 **"The Voice", is an AI-based application that uses conversational content to detect scam calls. Our goal is to protect seniors by analyzing call recordings using a deep-learning based model.**
 
@@ -62,19 +62,19 @@ Consequently, we expect “The Voice” can encourage seniors to become more inv
 
 **_GDSC KAIST (Korea Advanced Institute of Science and Engineering)_**
 
-Seungho Jang (hoosong0235@gmail.com) - Design, Frontend
+Seungho Jang (hoosong0235@gmail.com) - Design & Frontend
 
-Kyungho Byoun(clearman001@gmail.com) - Team Lead, Backend
+Kyungho Byoun(clearman001@gmail.com) - Team Lead & Backend
 
-Taeil Kim(kti5589@gmail.com) - ML Model construction
+Taeil Kim(kti5589@gmail.com) - Artificial Intelligence
 
-Jongeun Park(abepje@gmail.com) - Data processing
+Jongeun Park(abepje@gmail.com) - Data Preprocessing
 
 ### Responsibility
 
 | Component | Stacks | Responsibility |
 | --- | --- | --- |
-| [Client](https://github.com/KAIST-Google-Solution-Challenge/frontend) | Flutter | User Interface |
+| [Client](https://github.com/KAIST-Google-Solution-Challenge/frontend) | Android, Flutter | User Interface |
 | [Server](https://github.com/KAIST-Google-Solution-Challenge/backend) | Node.js, Google Compute Engine, Google Speech-to-Text | Pipeline to connect with services |
 | [Model](https://github.com/KAIST-Google-Solution-Challenge/conversation_model) | Google Colab | Classify text input to probability of being fraudulent |
 | [Data Preprocessing](https://github.com/KAIST-Google-Solution-Challenge/data_preprocess) | Python, Google Speech-to-Text | Gather voice phishing dataset |
@@ -82,20 +82,21 @@ Jongeun Park(abepje@gmail.com) - Data processing
 
 ### Design
 
-![The Voice 1 1 0](https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/8036ac0f-3343-4973-98d8-8b7fb478ed41)
+![The Voice 1 1 0](https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/40ebbc43-c747-42b8-bd4f-d4949d79a9d8)
 
 ### Architecture
 
-<img src="https://user-images.githubusercontent.com/60650372/230013748-c7162e45-dda5-4b3a-8363-ba072e7c636c.png">
+![Architecture](https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/bc83eb2c-553d-4e70-ae5c-18d988f41fcb)
 
 ### Google Products and Platforms
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/60650372/230013769-e601b476-acb8-47bc-9c4e-4199f72df8f4.png" height="100px" width="100px">
-  <img src="https://user-images.githubusercontent.com/60650372/230013809-0b02efe6-60d2-41c2-9c88-032522e7da11.png" height="100px" width="100px"> 
-  <img src="https://user-images.githubusercontent.com/60650372/230013785-76542b81-b568-4f1c-82f6-d7e4cf01c221.png" height="100px" width="100px">
-  <img src="https://user-images.githubusercontent.com/60650372/230013820-79f27a46-c874-4759-8634-156069be68f2.png" height="100px" width="100px">
-  <img src="https://user-images.githubusercontent.com/60650372/230014161-5424f544-6e25-4ad2-8ea9-f2e9203a4782.png" heigµht="100px" width="100px">
+  <img src="https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/86459451-4e70-4af1-8c75-4bf439c6ba0c" height="100px" width="100px">
+  <img src="https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/4308fa44-ee8a-4056-9b1c-9660f5e88f08" height="100px" width="100px">
+  <img src="https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/cba1bdce-7cc3-40c0-860d-7c83c49ab436" height="100px" width="100px">
+  <img src="https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/3f4038fb-ae5e-4772-816c-11333395cdc7" height="100px" width="100px">
+  <img src="https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/46b9e3cb-c0d8-4c01-b7a0-f676930360f0" height="100px" width="160px">
+  <img src="https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/b7412070-e6b2-43b1-95b9-0b988c4c0d2c" height="100px" width="100px">
 </p>
 
 ## Reference
