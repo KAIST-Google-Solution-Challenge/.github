@@ -82,7 +82,9 @@ Jongeun Park(abepje@gmail.com) - Data Preprocessing
 
 ### Design
 
-![The Voice 1 1 0](https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/40ebbc43-c747-42b8-bd4f-d4949d79a9d8)
+![Figma 1.1.0](https://www.figma.com/file/nt5I8808oBYdUSIfUURc3M/The-Voice-1.1.0?type=design&node-id=53609%3A30183&t=hW9dK8a235kOdUB0-1)
+![Figma 1.1.0-large](https://www.figma.com/file/nt5I8808oBYdUSIfUURc3M/The-Voice-1.1.0?type=design&node-id=53704%3A30690&t=hW9dK8a235kOdUB0-1)
+![The Voice 1.1.0](https://github.com/KAIST-Google-Solution-Challenge/.github/assets/78964767/40ebbc43-c747-42b8-bd4f-d4949d79a9d8)
 
 ### Architecture
 
